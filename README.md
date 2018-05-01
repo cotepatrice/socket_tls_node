@@ -6,11 +6,11 @@ https://gist.github.com/sandfox/1831932
 
 You should regenerate the certificates in tls exemple. Be careful when generating singnin requests. Enter your PC name when asked for 
 Common Name to be able to test with localhost :
-
+```
 ###
 #Step 1 - Generates server certificates
 ###
-```
+
 cd server
 
 #generate private key
